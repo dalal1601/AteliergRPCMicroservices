@@ -1,6 +1,6 @@
-package mapper;
+package com.example.mediaclient.mapper;
 
-import dto.VideoDto;
+import com.example.mediaclient.dto.VideoDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.xproce.lab.Video;

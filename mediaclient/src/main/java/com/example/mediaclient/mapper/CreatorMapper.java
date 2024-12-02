@@ -1,6 +1,6 @@
-package mapper;
+package com.example.mediaclient.mapper;
 
-import dto.CreatorDto;
+import com.example.mediaclient.dto.CreatorDto;
 import org.springframework.stereotype.Component;
 import org.xproce.lab.Creator;
 

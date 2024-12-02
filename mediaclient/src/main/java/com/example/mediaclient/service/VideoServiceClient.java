@@ -1,7 +1,7 @@
-package service;
+package com.example.mediaclient.service;
 
-import dto.VideoDto;
-import mapper.VideoMapper;
+import com.example.mediaclient.mapper.VideoMapper;
+import com.example.mediaclient.dto.VideoDto;
 import net.devh.boot.grpc.client.inject.GrpcClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
